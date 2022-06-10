@@ -1,0 +1,131 @@
+h1 {
+  text-align: center;
+  color: #FFFACD;
+  padding-top: 50px;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+}
+
+h4 {
+  text-align: center;
+  color: #FFFACD;
+}
+
+h5 {
+  text-align: center;
+  color: #FFFACD;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+
+html {
+  font-family: "Garamond", serif;
+font-size: 20px
+}
+
+h1, h2, h3 {
+  font-family: "Garamond", serif;
+}
+
+a:hover {
+   text-decoration: underline;
+   font-weight:bold;
+}
+
+
+#myHeader ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFACD;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#myHeader li {
+
+  float: left;
+   text-align: center;
+}
+
+#myHeader li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none
+   ;
+}
+
+#myHeader li {
+  border-right: 1px solid #bbb;
+}
+body {margin:0;}
+
+#fungo ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFACD;
+  position: sticky;
+  bottom:0;
+  width: 100%;
+}
+
+
+#fungo li {
+  float: left;
+  text-align: center;
+}
+
+#fungo li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+   padding-top: 30px
+}
+
+#fungo li {
+ 
+  text-align: center;
+}
+#ciao li { border-right: 1px solid #bbb;
+  text-align: center;
+}
+
+
+body {margin:0;}
+
+#ostrica {color:#B22222;
+}
+#pesce {color:#B22222;
+}
+#bella {color:#B22222;
+    text-align: center;
+}
+#comunicazione {color:#B22222;
+}
+
+#aglio {color:#D2691E;
+    text-align: center;
+
